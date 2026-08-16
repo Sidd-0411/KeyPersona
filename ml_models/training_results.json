@@ -1,0 +1,32 @@
+{
+  "Openness": {
+    "accuracy": 0.7871,
+    "f1_macro": 0.7868,
+    "std_acc": 0.0122,
+    "std_f1": 0.0122
+  },
+  "Conscientiousness": {
+    "accuracy": 0.81,
+    "f1_macro": 0.81,
+    "std_acc": 0.0048,
+    "std_f1": 0.0048
+  },
+  "Extraversion": {
+    "accuracy": 0.8642,
+    "f1_macro": 0.7485,
+    "std_acc": 0.0152,
+    "std_f1": 0.0271
+  },
+  "Agreeableness": {
+    "accuracy": 0.7833,
+    "f1_macro": 0.7825,
+    "std_acc": 0.0265,
+    "std_f1": 0.0268
+  },
+  "Neuroticism": {
+    "accuracy": 0.8058,
+    "f1_macro": 0.7489,
+    "std_acc": 0.0087,
+    "std_f1": 0.0127
+  }
+}
